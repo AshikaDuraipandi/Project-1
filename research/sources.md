@@ -8,47 +8,46 @@ Dan Martell is widely recognized as one of the most prominent scaling coaches fo
 
 Channel Link: https://www.youtube.com/@DanMartell
 
-3. TK Kader
+2. TK Kader
 TK Kader brings a rare blend of enterprise-level software experience and hands-on startup execution to the video marketing space. Having raised over $20 million as a solo founder for ToutApp—which he successfully scaled and sold to Marketo before assisting in Marketo’s subsequent multi-billion dollar acquisition by Adobe—Kader has spent years formalizing what he calls the Go-To-Market (GTM) Machine. His weekly YouTube material breaks down the highly complex process of launching and positioning software platforms into repeatable, step-by-step video frameworks that demystify corporate messaging. His unique value proposition lies in his ability to address the complete lifecycle of a software company rather than focusing on a single early growth stage. He provides actionable video scripts, distribution blueprints, and validation strategies that map directly across a company’s maturity timeline. This shows founders exactly how to adjust their content messaging whether they are navigating an early pre-seed validation phase or optimizing a highly competitive Series B corporate customer pipeline.
 
 Channel Link: https://www.youtube.com/@TKKader
 
-4. Nathan Latka
+3. Nathan Latka
 Nathan Latka has pioneered a hyper-aggressive, data-centric style of journalism and research within the software space through his extensive database of over 1,000 live founder interviews. Rather than hosting casual conversations about broad marketing themes or lifestyle preferences, Latka utilizes his YouTube platform to conduct rapid-fire, metrics-focused financial examinations of scaling companies. He systematically uncovers hard operational variables including exact Monthly Recurring Revenue, customer lifetime values, exact payback periods, net revenue retention percentages, and annualized customer churn. The completely unique angle Latka provides is the total elimination of corporate fluff and generalized marketing platitudes that often mask poor company performance. His channel provides an exhaustive, searchable library of verified case studies where viewers can witness exactly how top-tier SaaS companies perform financially behind closed doors. This offers raw, unedited benchmarks that help researchers analyze the direct correlation between active video distribution strategies, product growth loops, and long-term financial sustainability.
 
 Channel Link: https://www.youtube.com/@NathanLatka
 
-5. Samu Kovacs
+4. Samu Kovacs
 Samu Kovacs operates at the immediate cutting edge of modern video marketing as the founder of KS Media, a specialized agency that builds high-performing inbound video pipelines for prominent enterprise accounts and B2B brands. Kovacs constructs operational frameworks specifically designed to solve a massive industry problem: the distinct disconnect between massive YouTube view counts and zero bottom-line corporate revenue. His educational content provides an architectural blueprint for structuring video topics, scripting psychological hooks, and embedding direct-response funnels directly into corporate video production schedules. What sets Kovacs completely apart from traditional video creators is his total dismissal of vanity metrics like channel subscribers or viral view spikes that do not impact business valuation. He treats a YouTube channel strictly as a high-intent pipeline generator, teaching companies how to configure their video assets so they act as automated capture mechanisms that deliberately convert viewer retention into high-value booked sales calls and qualified enterprise leads.
 
 Channel Link: https://hu.linkedin.com/in/samu-kovacs
 
-6. Jonathan Rintala
+5. Jonathan Rintala
 Jonathan Rintala provides an authentic, real-time look into modern software scaling as the active co-founder of Univid, a highly rated virtual event and webinar platform built explicitly for marketing teams. Rintala has gained widespread industry recognition through his dedication to the "build in public" philosophy, documenting his company's daily growth struggles, development sprints, and rapid execution loops. In addition to authored growth publications, his video content breaks down how his internal team weaponized organic distribution channels to generate millions of search impressions and scale their platform valuation. Rintala's unique value to this research database is that he is an active operator running live growth experiments right now in a highly competitive software market. His content doesn't rely on historical theory or outdated marketing books; instead, he shares real-time product-led growth (PLG) insights, breakdown analytics of what failed in their latest feature launch, and exact tactical configurations for alternative channels like Reddit to show exactly how a lean startup competes against enterprise giants.
 
 Channel Link: https://www.youtube.com/@JonathanRintala
 
-7. Simon Høiberg
+6. Simon Høiberg
 Simon Høiberg represents the modern era of the independent software developer, having successfully built, scaled, and exited multiple software platforms using highly optimized, lean team structures. Leveraging a highly polished and engaging visual style, Høiberg built an audience of over 100,000 subscribers in a remarkably short period by focusing heavily on validation processes, no-code integrations, and artificial intelligence execution stacks. His material carefully balances tactical technical builds with transparent commentary regarding mental burnout, founder loneliness, and the operational realities of solo execution. His unique angle centers around the intersection of AI-native workflows and lean software deployment for modern creators. He teaches modern builders how to leverage cutting-edge automation tools to handle software development, content marketing, and customer support simultaneously. This makes his channel an essential, foundational resource for understanding how solo operators can scale a SaaS product to profitability using minimal overhead and maximum technology leverage.
 
 Channel Link: https://www.youtube.com/@SimonHoiberg
 
-8. Rob Walling
+7. Rob Walling
 Rob Walling is widely considered a foundational godfather of the modern bootstrapped software movement, serving as the co-founder of MicroConf and the TinySeed accelerator program. For over a decade, Walling has actively championed an alternative approach to technology entrepreneurship that completely avoids the traditional, high-pressure venture capital ecosystem. His educational content focuses heavily on a sustainable "stair-step" approach to market validation, finding highly profitable market niches, and achieving product-market fit on a manageable scale. Walling serves as a crucial, definitive "anti-VC" voice within this research database. His content is tailored specifically for founders who want to retain 100% ownership of their companies and prioritize consistent cash flow over massive equity dilution. He offers rare, grounded frameworks for scaling a software business to a highly comfortable seven-figure valuation without external investor interference or hyper-growth corporate stress.
 
 Channel Link: https://www.youtube.com/@MicroConf
-
-9. Alex Hormozi
+8. Alex Hormozi
 Alex Hormozi brings a masterclass in transactional economics, core offer architecture, and extreme conversion psychology to the business marketing ecosystem. As the founder of Acquisition.com, a portfolio company generating over $100 million in annualized revenue, Hormozi specializes in stripping away superficial marketing jargon to expose the core psychological triggers that cause businesses and consumers to make high-ticket purchasing decisions. His frameworks focus intensely on the mechanics of building irresistible offers, restructuring monetization tiers, and optimizing sales team script performance. What makes Hormozi's perspective invaluable to a software-centric database is his deep focus on monetization and conversion psychology—elements that software engineers and product managers frequently overlook during development. His material provides the exact blueprints required to turn standard traffic into premium, high-converting customer tiers. This makes his concepts highly applicable to restructuring SaaS subscription packages, corporate checkout flows, and long-term user upsell paths.
 
 Channel Link: https://www.youtube.com/@AlexHormozi
 
-10. Jason Lemkin (SaaStr)
+9. Jason Lemkin (SaaStr)
 Jason Lemkin is the visionary mind behind SaaStr, the largest global community and educational ecosystem for B2B SaaS founders, executives, and venture capitalists. Having successfully founded EchoSign and scaled it to a major acquisition by Adobe, Lemkin transitioned into venture capital by managing Storm Ventures and investing early in multiple unicorn software platforms. His content strategy centers around hosting and dissecting deep operational insights alongside executives from global companies scaling past $10M, $50M, and $100M in ARR. Lemkin’s unique value proposition is the unmatched seniority, scale, and corporate governance focus of his content database. While other creators focus on early product validation tactics, SaaStr provides access to high-level enterprise conversations regarding C-suite management, customer success scaling, and global expansion patterns. This helps researchers understand how to build institutional trust with Fortune 500 enterprise clients over multi-year contract cycles.
 
 Channel Link: https://www.youtube.com/@SaaStr
 
-11. Clwyd Probert (Whitehat SEO)
+10. Clwyd Probert (Whitehat SEO)
 Clwyd Probert is a veteran content strategist and technology architect with nearly a decade of experience designing sophisticated video marketing funnels tightly integrated with enterprise automation platforms like HubSpot. Probert specializes in helping complex B2B organizations transition away from generalized video creation and move toward closed-loop attribution models that connect audience watch behaviors directly to bottom-line pipeline outcomes. Probert is completely unique within this research group because he bridges the technical gap between creative video execution and advanced Customer Relationship Management (CRM) analytics. His unique methodology teaches researchers how to track an individual lead's journey from a single YouTube video view all the way through automated email nurture sequences. This culminates in a closed corporate sale, allowing companies to calculate the definitive return on investment (ROI) of their video content assets with absolute scientific precision.
 
 Channel Link: https://www.whitehat-seo.co.uk
